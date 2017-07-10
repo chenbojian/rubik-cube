@@ -1,3 +1,3 @@
 # rubik-cube
 
-[build status](https://travis-ci.org/chenbojian/rubik-cube.svg?branch=master)
+![build status](https://travis-ci.org/chenbojian/rubik-cube.svg?branch=master)
